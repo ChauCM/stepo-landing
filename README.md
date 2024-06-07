@@ -12,6 +12,11 @@
 
 📱 Free to use static generated landing page template for your mobile app
 
+
+Fork with updated dependencies and customized to use on: https://noise.mawges.com
+
+If you want to use original template, but with fixed dependencies just checkout earlier commits.
+
 ## 💡 Features
 Mobile App Landing Page Template comes with pre-installed features and options:
 - Display app icon
@@ -29,12 +34,15 @@ Mobile App Landing Page Template comes with pre-installed features and options:
 - Github forking banner
 
 ## ✨ Demo
-Check out websites using the Mobile App Template:
+(Original) Check out websites using the Mobile App Template:
 - https://mobileapplandingpage.learn.uno (demo website)
 - https://gitnews.learn.uno
 - https://textblast.learn.uno
 - https://infinideas.learn.uno
 - https://www.therandominion.com/
+
+(Changed)
+- https://noise.mawges.com
 
 ## 📖 How to use
 

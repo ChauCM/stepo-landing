@@ -1,21 +1,37 @@
-name: Mobile App Name
-description: A super tagline for the mobile app
-full_description: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
-android: https://telegra.ph/Replace-this-link-07-23
-iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://telegra.ph/Replace-this-link-07-23
+name: "Noise: White, Pink, Brown ..."
+description: "Better sleep, relax, focus. Explore and mix noises to find the best one for you."
+full_description: 'True & Real-Time Noise Generator - No files with pre-generated noise.<br/>
+<br/>
+The app can generate various colors and types of noise.<br/>
+<br/>
+Different people have different needs when it comes to noise. For instance, one person may find that brown noise helps with sleep disorders, while another might prefer white noise.<br/>
+<br/>
+Experiment with different types of noise to discover which one best assists you with sleep, work, and more.<br/>
+<br/>
+You can select specific noises or mix them.<br/>
+<br/>
+Colors of noise that can be found in the app:<br/>
+<ul>
+<li>Brown - Emulates the deep and resonant sounds of powerful waterfalls or distant thunder.</li>
+<li>Pink - Mimics the gentle rustling of leaves, the steady patter of rain, or the blowing of wind.</li>
+<li>White - Features a uniform distribution of sound, akin to the steady hum of a fan or the static of a radio.</li>
+<li>Blue - Echoes the high-pitched hiss of flowing water.</li>
+<li>Purple - Essentially a higher-pitched version of blue noise, offering a sharper tone.</li>
+<li>Green - Resembles the sound of rustling leaves in a dense forest.</li>
+<li>Grey - With a balanced spectrum that compensates for human perception, grey noise offers a consistent auditory experience.</li>
+</ul>
+<br/>
+Discover more on the <a href="https://apps.apple.com/app/noise/id6474789616">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.hipxel.noise">Google Play</a>.<br/>
+<br/>
+Disclaimer: This is not medical advice.'
+android: https://play.google.com/store/apps/details?id=com.hipxel.noise
+iOS: https://apps.apple.com/app/noise/id6474789616
 screenshots:
-  - 1.png
-  - 2.png
-  - 3.png
-  - 4.png
-producthunt: https://telegra.ph/Replace-this-link-07-23
-companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: androidpolice.png
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: producthunt.png
+  - 1.jpg
+  - 2.jpg
+  - 3.jpg
+  - 4.jpg
+  - 5.jpg
+  - 6.jpg
+  - 7.jpg
+  - 8.jpg
